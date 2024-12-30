@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Solution-VsCode\\ConnectMySql\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\controllers\\customerv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:controllers\\customerv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\response\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\response\\orderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\controllers\\orderv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:controllers\\orderv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\service\\impl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:service\\impl\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\mapper\\impl\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:mapper\\impl\\ordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\orderrequest\\ordercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\orderrequest\\ordercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:service\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\mapper\\impl\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:mapper\\impl\\productmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\response\\employeeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\controllers\\employeev2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:controllers\\employeev2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\service\\impl\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:service\\impl\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\mapper\\impl\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:mapper\\impl\\employeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\service\\impl\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:service\\impl\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\service\\impl\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:service\\impl\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:service\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\orderrequest\\orderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\orderrequest\\orderupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\orderrequest\\orderget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\orderrequest\\orderget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\orderrequest\\orderdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\orderrequest\\orderdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\orderdetailrequest\\orderdetailcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\orderdetailrequest\\orderdetailcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\employeerequest\\employeeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\employeerequest\\employeeupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\employeerequest\\employeeget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\employeerequest\\employeeget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\employeerequest\\employeedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\employeerequest\\employeedelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\employeerequest\\employeecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\employeerequest\\employeecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\controllers\\productv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:controllers\\productv2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\mapper\\iemployeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:mapper\\iemployeemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\mapper\\iordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:mapper\\iordermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\mapper\\iproductmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:mapper\\iproductmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\orderdetailrequest\\orderdetailupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\orderdetailrequest\\orderdetailupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\orderdetailrequest\\orderdetaildelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\orderdetailrequest\\orderdetaildelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|f:\\solution-vscode\\connectmysql\\model\\dto\\request\\orderdetailrequest\\orderdetailget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1F2B31-C62D-4DD9-AF99-96A84AE64F1F}|ConnectMySql.csproj|solutionrelative:model\\dto\\request\\orderdetailrequest\\orderdetailget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 802,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderMapper.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\Impl\\OrderMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\Impl\\OrderMapper.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\Impl\\OrderMapper.cs",
+              "RelativeToolTip": "Mapper\\Impl\\OrderMapper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAArwC0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:47:28.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeV2Controller.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Controllers\\EmployeeV2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeV2Controller.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Controllers\\EmployeeV2Controller.cs",
+              "RelativeToolTip": "Controllers\\EmployeeV2Controller.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:34:21.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeResponse.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Response\\EmployeeResponse.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Response\\EmployeeResponse.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Response\\EmployeeResponse.cs",
+              "RelativeToolTip": "Model\\DTO\\Response\\EmployeeResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:58:12.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderV2Controller.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Controllers\\OrderV2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderV2Controller.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Controllers\\OrderV2Controller.cs",
+              "RelativeToolTip": "Controllers\\OrderV2Controller.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAArwD8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:14:26.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderResponse.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Response\\OrderResponse.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Response\\OrderResponse.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Response\\OrderResponse.cs",
+              "RelativeToolTip": "Model\\DTO\\Response\\OrderResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:41:43.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Service\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Service\\IOrderService.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Service\\IOrderService.cs",
+              "RelativeToolTip": "Service\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:53:14.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductMapper.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\Impl\\ProductMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\Impl\\ProductMapper.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\Impl\\ProductMapper.cs",
+              "RelativeToolTip": "Mapper\\Impl\\ProductMapper.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwDEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:10:15.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderCreate.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderRequest\\OrderCreate.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\OrderRequest\\OrderCreate.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderRequest\\OrderCreate.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\OrderRequest\\OrderCreate.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:38:42.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerV2Controller.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Controllers\\CustomerV2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerV2Controller.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Controllers\\CustomerV2Controller.cs",
+              "RelativeToolTip": "Controllers\\CustomerV2Controller.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T18:26:15.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Service\\Impl\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\EmployeeService.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Service\\Impl\\EmployeeService.cs",
+              "RelativeToolTip": "Service\\Impl\\EmployeeService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwE0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:19:38.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Service\\Impl\\OrderService.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\OrderService.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Service\\Impl\\OrderService.cs",
+              "RelativeToolTip": "Service\\Impl\\OrderService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAvwFEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:55:15.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeMapper.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\Impl\\EmployeeMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\Impl\\EmployeeMapper.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\Impl\\EmployeeMapper.cs",
+              "RelativeToolTip": "Mapper\\Impl\\EmployeeMapper.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwCMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:08:14.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Service\\Impl\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\CustomerService.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Service\\Impl\\CustomerService.cs",
+              "RelativeToolTip": "Service\\Impl\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:20:05.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Service\\Impl\\ProductService.cs",
+              "RelativeDocumentMoniker": "Service\\Impl\\ProductService.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Service\\Impl\\ProductService.cs",
+              "RelativeToolTip": "Service\\Impl\\ProductService.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:37:04.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Service\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Service\\IEmployeeService.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Service\\IEmployeeService.cs",
+              "RelativeToolTip": "Service\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:18:22.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderUpdate.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderRequest\\OrderUpdate.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\OrderRequest\\OrderUpdate.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderRequest\\OrderUpdate.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\OrderRequest\\OrderUpdate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wAwAAACCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:38:49.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderGet.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderRequest\\OrderGet.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\OrderRequest\\OrderGet.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderRequest\\OrderGet.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\OrderRequest\\OrderGet.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAlwAwAAACMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:38:34.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDelete.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderRequest\\OrderDelete.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\OrderRequest\\OrderDelete.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderRequest\\OrderDelete.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\OrderRequest\\OrderDelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:38:58.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderDetailCreate.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailCreate.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailCreate.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailCreate.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:29:22.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeUpdate.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\EmployeeRequest\\EmployeeUpdate.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\EmployeeRequest\\EmployeeUpdate.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\EmployeeRequest\\EmployeeUpdate.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\EmployeeRequest\\EmployeeUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:56:09.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmployeeGet.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\EmployeeRequest\\EmployeeGet.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\EmployeeRequest\\EmployeeGet.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\EmployeeRequest\\EmployeeGet.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\EmployeeRequest\\EmployeeGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:56:31.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmployeeDelete.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\EmployeeRequest\\EmployeeDelete.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\EmployeeRequest\\EmployeeDelete.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\EmployeeRequest\\EmployeeDelete.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\EmployeeRequest\\EmployeeDelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:56:20.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeCreate.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\EmployeeRequest\\EmployeeCreate.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\EmployeeRequest\\EmployeeCreate.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\EmployeeRequest\\EmployeeCreate.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\EmployeeRequest\\EmployeeCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T09:55:58.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductV2Controller.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Controllers\\ProductV2Controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductV2Controller.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Controllers\\ProductV2Controller.cs",
+              "RelativeToolTip": "Controllers\\ProductV2Controller.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:22:12.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IEmployeeMapper.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\IEmployeeMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\IEmployeeMapper.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\IEmployeeMapper.cs",
+              "RelativeToolTip": "Mapper\\IEmployeeMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:00:43.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:46:08.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrderMapper.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\IOrderMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\IOrderMapper.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\IOrderMapper.cs",
+              "RelativeToolTip": "Mapper\\IOrderMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:44:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProductMapper.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\IProductMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\IProductMapper.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Mapper\\IProductMapper.cs",
+              "RelativeToolTip": "Mapper\\IProductMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:07:39.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderDetailUpdate.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailUpdate.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailUpdate.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailUpdate.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:27:50.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T10:32:16.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderDetailDelete.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailDelete.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailDelete.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailDelete.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailDelete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:28:00.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OrderDetailGet.cs",
+              "DocumentMoniker": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailGet.cs",
+              "RelativeDocumentMoniker": "Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailGet.cs",
+              "ToolTip": "F:\\Solution-VsCode\\ConnectMySql\\Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailGet.cs",
+              "RelativeToolTip": "Model\\DTO\\Request\\OrderDetailRequest\\OrderDetailGet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T11:27:39.538Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 802,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

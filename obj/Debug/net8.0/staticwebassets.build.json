@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pwUc9m/5Zb+DB/TfV5WbHNOessMgeRMYyGFtg/+nsYA=",
+  "Source": "ConnectMySql",
+  "BasePath": "_content/ConnectMySql",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
