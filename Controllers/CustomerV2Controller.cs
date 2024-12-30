@@ -2,6 +2,7 @@
 using ConnectMySql.Model;
 using ConnectMySql.Model.DTO;
 using ConnectMySql.Model.DTO.Request.CustomerRequest;
+using ConnectMySql.Model.DTO.Response.CustomerResponse;
 using ConnectMySql.Service;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -20,7 +21,7 @@ public class CustomerV2Controller : ControllerBase
     }
 
     [HttpPost("add")]
-    public IActionResult AddCustomer([FromBody] CustomerCreate create)
+    public ActionResult<CustomerResponse> AddCustomer([FromBody] CustomerCreate create)
     {
         try
         {
